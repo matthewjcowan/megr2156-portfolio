@@ -95,6 +95,9 @@ __Decision 1: Homepage Identity__
 The goal of the homepage is to help a visitor, such as a grader, instructor, or potential employer, understand the portfolio immediately without needing to open the About Me page. For it to convey this information, it should include the name of who is in the portfolio, a short description of what the portfolio contains (ie. design projects, course assignments, etc.), simple navigation to the assignments, and some type of professional photo to put a face to the portfolio. 
 
 __Decision 2: One Intentional Customization__
-I Changed the Navigation labels to provide more clear access to the assignments by assigning them subjects. I did this through the mkdocs.yml. This
+I Changed the Navigation labels to provide more clear access to the assignments by assigning them subjects. I did this through the mkdocs.yml. This fixes a problem with the navigability of the website to help find a piece of work in under 60 seconds. A1 by itself defines nothing other than identifying a page beneath the assignments. If you are looking for a specific assignment then you would end up clicking through each assignment individually until coming upon the one in which you were searching for. By including the subject in the label of the assignment, the sidebar becomes a part of the index to allow ease of access. The default did not work because the normal numbers were standard across all the premade portfolios for a graders ease of access, but served no functionality for potential employers or people outside of the group of graders that are looking for a specific topic. 
+
+__My Documentation Standard:__
+Every assignment entry will clearly document the engineering problem, reasoning, decisions, calculations, assumptions, and evidence so that another engineering student could understand and evaluate the work without needing additional explanation. 
 ## Communicate
 
