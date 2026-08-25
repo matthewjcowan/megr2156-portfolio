@@ -56,18 +56,24 @@ Component 1: Spring Steel Clip Body:
 The clip body is made from one piece of spring steel that is bent into a triangular shape. This shape creates two flexible sides that meet at the front to form the clamping jaws. The triangular design allows the clip to bend and store energy when it is opened. The curved section at the back is the main area that provides the spring action. When the jaws are opened, the steel bends and stores energy. When the force is removed, the steel tries to return to its original shape, which pulls the jaws back together. The front edges of the clip are curled outward to create rounded areas where the wire handles connect. These curled edges allow the handles to pivot smoothly while also keeping them in place.
 
 Component 2: First Wire Handle
+![First Wire Handle](clipuno.jfif)
 The first handle is made from one continuous piece of wire bent into a loop. The ends of the wire fit into the curled edges of the clip, allowing the handle to pivot. The long shape of the handle gives the user more leverage, so a small hand force can create enough force to open the jaws. When the handle is rotated, it pushes against the clip body and causes the spring-steel sides to bend, which opens the jaws.
 
 Component 3: Second Wire Handle
+![First Wire Handle](clipdos.jfif) 
 The second handle has a similar wire-loop design as the first handle but is attached to the opposite side of the clip. Together, the two handles create a balanced opening mechanism. When the user squeezes the handles together, they rotate around their pivot points and open the clip. Using two handles spreads the force across both sides of the clip instead of relying on one handle. The handles can also be folded backward after the clip is attached, which makes the clip more compact and allows the papers to lay flatter. The thickness of the wire is also important. A thicker wire is stronger and bends less, while the continuous wire design provides enough strength to transfer the user's force without needing extra parts.
 
 __Patent Research:__
 
 Patent Number and Inventor: 
 
-A relevant early patent for a binder clip is U.S. Patent No. 1,865,453, “Binder Clip,” invented by Louis E. Baltzley. The patent was filed on February 27, 1930, and published on July 5, 1932. The patent identifies the objective of holding paper and other materials with a construction capable of accommodating varying thicknesses while resisting twisting. Source: https://patents.google.com/patent/US1865453A/en 
+A relevant early patent for a binder clip is U.S. Patent No. 1,865,453, “Binder Clip,” invented by Louis E. Baltzley. The patent was filed on February 27, 1930, and published on July 5, 1932. The patent identifies the objective of holding paper and other materials with a construction capable of accommodating varying thicknesses while resisting twisting. 
+![First Patent Blueprint](clippatent1.png) 
+Source: https://patents.google.com/patent/US1865453A/en 
 
-A patent more closely representing the geometry of a modern three-component binder clip is U.S. Patent No. 7,120,969, “Binder Clip,” invented by David Carls. It describes a triangular clip body with spring-biased side panels and two pivoting wire levers. Source: https://patents.google.com/patent/US20060130288A1/en 
+A patent more closely representing the geometry of a modern three-component binder clip is U.S. Patent No. 7,120,969, “Binder Clip,” invented by David Carls. It describes a triangular clip body with spring-biased side panels and two pivoting wire levers. 
+![Second Patent Blueprint](clippatent2.png)  
+Source: https://patents.google.com/patent/US20060130288A1/en 
 
 Alternative Solutions:
 
