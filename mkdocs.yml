@@ -15,7 +15,7 @@ nav:
   - Portfolio Overview: portfolio-overview.md
   - Assignments:
       - A1 Portfolio and Product Analysis: assignments/A01/index.md
-      - A2: assignments/A02/index.md
+      - A2 Truss Stress: assignments/A02/index.md
       - A3 Parametric Modeling & Finite Element Analysis: assignments/A03/index.md
       - A4 Motor Mount: assignments/A04/index.md
       - A5 Bracket Design: assignments/A05/index.md
