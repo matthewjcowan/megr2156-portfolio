@@ -52,7 +52,8 @@ One assumption is that the spring-steel body remains within its elastic deformat
 __Component Geometry and Mechanical Function:__
 
 Component 1: Spring Steel Clip Body
-![Spring Steel Clip Body]()
+![Spring Steel Clip Body](Steel Body Slip 4-3.jpg) 
+
 ## Decide
 
 
