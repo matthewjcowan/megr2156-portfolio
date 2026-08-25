@@ -100,4 +100,4 @@ I Changed the Navigation labels to provide more clear access to the assignments 
 __My Documentation Standard:__
 Every assignment entry will clearly document the engineering problem, reasoning, decisions, calculations, assumptions, and evidence so that another engineering student could understand and evaluate the work without needing additional explanation. 
 ## Communicate
-[About Me](path/to/file.md#aboutme)
+[About Me](../../aboutme/)
