@@ -90,6 +90,11 @@ One important design decision is using one bent strip of spring steel to create 
 
 ## Decide
 
+__Decision 1: Homepage Identity__
 
+The goal of the homepage is to help a visitor, such as a grader, instructor, or potential employer, understand the portfolio immediately without needing to open the About Me page. For it to convey this information, it should include the name of who is in the portfolio, a short description of what the portfolio contains (ie. design projects, course assignments, etc.), simple navigation to the assignments, and some type of professional photo to put a face to the portfolio. 
+
+__Decision 2: One Intentional Customization__
+I Changed the Navigation labels to provide more clear access to the assignments by assigning them subjects. I did this through the mkdocs.yml. This
 ## Communicate
 
