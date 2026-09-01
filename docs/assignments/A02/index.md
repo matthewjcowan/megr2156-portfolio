@@ -27,11 +27,11 @@ A is modeled as a pin, so it provides Ax and Ay. B is modeled as a roller, so it
 
 | Member  | Symbolic Force | Numerical Force (kN) | State | Length |
 | -------- | -------- | -------- | -------- | -------- |
-| BA    |     $\frac{4P}{9}$     |      11.111    | Tension         |       1.2000   |
-| BC    |     $\frac{-5P}{9}$     |      -13.889    |   Compression       |     0.500     |
-| CD    |  $\frac{4P}{3}$        |     33.333     |    Tension      |   0.400  |
-| CA    |  $\frac{-2\sqrt{73}P}{9}$    |    -47.467      |      Compression    |    0.8544      |
-| DA    |      $\frac{5P}{3}$    |      41.6667    |   Tension       |      0.500    |
+| BA    |     4P/9     |      11.111    | Tension         |       1.2000   |
+| BC    |     -5P/9     |      -13.889    |   Compression       |     0.500     |
+| CD    |  4P/3        |     33.333     |    Tension      |   0.400  |
+| CA    |  -2sqrt(73)P/9    |    -47.467      |      Compression    |    0.8544      |
+| DA    |      5P/3    |      41.6667    |   Tension       |      0.500    |
 
 The largest internal force by magnitude is member CA, with Fmax = 47.467 kN. Because every truss member must use the same cross sectional geometry, this member controls the sizing calculation. 
 
