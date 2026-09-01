@@ -7,15 +7,21 @@ The selected load is P = 25 kN, which lies midway between the allowed 20 and 30 
 ## Analyze
 ### Truss Geometry
 The geometry was chosen based on the dimensions given in Figure 1. Points B and A are the upper supports, while points C and D are the lower points where the loads are applied. The three horizontal sections are each a = 0.4 m , and the vertical distance is b = 0.3 m. This design keeps the truss simple by using only five members while still making it statically determinate.
-![Truss Geometry](clipuno.jfif) 
+
+<img src="A2 Truss Geometry.png" alt="Truss Geometry">
 
 #### Member Lengths
+<img src="Member Lengths.png" alt="Member Lenghts"> 
 
 ### Whole Truss Free Body Diagrams and Reactions
+<img src="Whole Truss Free Body Diagram.png" alt="Whole Truss Free Body Diagram">
 
 A is modeled as a pin, so it provides Ax and Ay. B is modeled as a roller, so it provides By. Taking moments about A eliminates Ax and Ay and provides the roller reaction. The sign of By is negative, meaning the reaction acts downward for this loading arrangement.
 
+<img src="Whole truss reactions.png" alt="Whole Truss Reactions">
+
 ### Method Of Joints
+<img src="Method Of joints.png" alt="Method Of Joints">
 
 #### Numerical and Symbolic Member Forces
 
@@ -37,14 +43,16 @@ The theoretical minimum area is 527.4mm2. A practical CAD section of 25mm x 22mm
 
 The resulting yield-based safety factor is FS = Fy A / Fmax = 3.65, which is greater than the required 3.5
 
-### Approximate Truss Weight
+<img src="Member cross sectional area.png" alt="Member cross sectional area">
 
+### Approximate Truss Weight
+<img src="Approximate truss weight.png" alt="Approximate truss weight">
 Analytical truss mass, excluding pins: 14.91 kg.
 
 ### Pin Design
 
 The pins are designed to be in single shear. To be more conservative, the same pin size is used for the full 25 kN joint load instead of the smaller 8.333 kN support reaction. This approach makes sure the pins can handle the highest load that occurs at any connection in the truss.
-
+<img src="Pin Design.png" alt="Pin Design">
 
 
 A practical pin diameter of 0.500 in was selected for the design. The circular shear area of the pin is 0.1964 in², which results in a shear safety factor of 5.94. This is greater than the required safety factor of 4, so the pin meets the design requirements.
@@ -58,7 +66,7 @@ The main reason for adding the fifth member was to make the structure stable. Th
 m = 2j - 3 = 2(4) - 3 = 5
 I chose AC as the diagonal because it provides the needed bracing without creating a crossing member, making the truss simpler to build. The opposite diagonal would also work, but it would produce a mirror-image design with the same structural behavior.
 The given geometry controls the forces and weight of the truss. With a= 0.4 m and b = 0.3 m, the largest internal force occurs in member AC at approximately 47.47 kN in compression. Since the dimensions and material are fixed by the assignment, there was limited opportunity to reduce the weight through geometry. Therefore, the final design focuses on using the minimum practical member size while still meeting the required safety factor.
-
+<img src="truss cad.png" alt="truss cad">
 
 ## Communicate
 | Design Item | Final Value |
@@ -74,7 +82,7 @@ The given geometry controls the forces and weight of the truss. With a= 0.4 m an
 |Pin Safety Factor | 5.94 |
 | Analytical Truss Mass | 14.91 kg |
 | Analytical Pin Mass | 0.086 kg |
-
+<img src="Pin Cad.png" alt="Pin Cad">
 
 ### Lessons Learned
 -Truss geometry must be established before analyzing the forces because the member angles determine the axial-force components at each joint.
