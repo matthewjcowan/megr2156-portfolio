@@ -7,6 +7,7 @@ The selected load is P = 25 kN, which lies midway between the allowed 20 and 30 
 ## Analyze
 ### Truss Geometry
 The geometry was chosen based on the dimensions given in Figure 1. Points B and A are the upper supports, while points C and D are the lower points where the loads are applied. The three horizontal sections are each a = 0.4 m , and the vertical distance is b = 0.3 m. This design keeps the truss simple by using only five members while still making it statically determinate.
+![Truss Geometry](clipuno.jfif) 
 
 #### Member Lengths
 
